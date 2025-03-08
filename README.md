@@ -1283,4 +1283,4 @@ seed();
 - [Watch how to Integrate EmailJS](https://youtu.be/kt0FrkQgw8w?feature=shared&t=13792) in Your Website.
 - [Source Code for Integrating EmailJS](https://github.com/adrianhajdin/threejs-portfolio/blob/main/src/sections/Contact.jsx) in any of your codebases. 
 
-## <a name="more">🚀 More</a>.
+## <a name="more">🚀 More</a>!
